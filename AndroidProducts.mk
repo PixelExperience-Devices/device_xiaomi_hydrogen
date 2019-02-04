@@ -17,4 +17,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_hydrogen.mk \
-    $(LOCAL_DIR)/lineage_hydrogen.mk
+    $(LOCAL_DIR)/aosp_hydrogen.mk
